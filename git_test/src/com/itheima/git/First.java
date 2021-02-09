@@ -7,5 +7,7 @@ public class First {
 
     public void test(){
         System.out.println("ssss");
+        System.out.println("ssss");
+        System.out.println("ssss");
     }
 }
